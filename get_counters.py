@@ -8,7 +8,7 @@ import os, sys
 try:
     node = str(sys.argv[1])
     condition = str(sys.argv[2])
-    address = '207.188.79.162:9000'
+    address = ''
     timeout = '3'
 
     try:
